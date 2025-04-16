@@ -1,0 +1,6 @@
+@GTIGluoCrmTefway_HostAddress = http://localhost:5005
+
+GET {{GTIGluoCrmTefway_HostAddress}}/AuthGluoCRM/
+Accept: application/json
+
+###

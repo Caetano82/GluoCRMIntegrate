@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTIGluoCrmTefway.Api", "GTIGluoCrmTefway\GTIGluoCrmTefway.Api.csproj", "{D6DBF565-0AE7-4DE4-8928-C1BCDCE25EDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTIGluoCrmTefway.Domain", "GTIGluoCrmTefway.Domain\GTIGluoCrmTefway.Domain.csproj", "{E563AAC9-A458-4447-83BB-57E80076F0E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTIGluoCrmTefway.InfraEsctruture", "GTIGluoCrmTefway.InfraEsctruture\GTIGluoCrmTefway.InfraEsctruture.csproj", "{A54C4F82-AA64-4900-B337-B85A6CF8AD33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTIGluoCrmTefway.IoC", "GTIGluoCrmTefway.IoC\GTIGluoCrmTefway.IoC.csproj", "{B313CB12-3813-494E-A1AF-7AEB9B9A658C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTIGluoCrmTefway.Respository", "GTIGluoCrmTefway.Respository\GTIGluoCrmTefway.Respository.csproj", "{7C910055-10A2-41DB-9481-6546E7EBA4B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTIGluoCrmTefway.Service", "GTIGluoCrmTefway.Service\GTIGluoCrmTefway.Service.csproj", "{1D668974-E713-497C-9CB6-DB97FBA4FB28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6DBF565-0AE7-4DE4-8928-C1BCDCE25EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DBF565-0AE7-4DE4-8928-C1BCDCE25EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DBF565-0AE7-4DE4-8928-C1BCDCE25EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DBF565-0AE7-4DE4-8928-C1BCDCE25EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E563AAC9-A458-4447-83BB-57E80076F0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E563AAC9-A458-4447-83BB-57E80076F0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E563AAC9-A458-4447-83BB-57E80076F0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E563AAC9-A458-4447-83BB-57E80076F0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A54C4F82-AA64-4900-B337-B85A6CF8AD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54C4F82-AA64-4900-B337-B85A6CF8AD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54C4F82-AA64-4900-B337-B85A6CF8AD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54C4F82-AA64-4900-B337-B85A6CF8AD33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B313CB12-3813-494E-A1AF-7AEB9B9A658C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B313CB12-3813-494E-A1AF-7AEB9B9A658C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B313CB12-3813-494E-A1AF-7AEB9B9A658C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B313CB12-3813-494E-A1AF-7AEB9B9A658C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C910055-10A2-41DB-9481-6546E7EBA4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C910055-10A2-41DB-9481-6546E7EBA4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C910055-10A2-41DB-9481-6546E7EBA4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C910055-10A2-41DB-9481-6546E7EBA4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D668974-E713-497C-9CB6-DB97FBA4FB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D668974-E713-497C-9CB6-DB97FBA4FB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D668974-E713-497C-9CB6-DB97FBA4FB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D668974-E713-497C-9CB6-DB97FBA4FB28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32365662-0C5A-4335-A703-7F0BC01A127D}
+	EndGlobalSection
+EndGlobal
